@@ -1,1 +1,9 @@
-
+didyoumean3==0.3.1
+Keras==2.4.3
+opencv-python==4.5.1.48
+numpy==1.20.1
+Pillow==8.1.2
+PyQt5==5.15.4
+pywin32==300
+tensorflow==2.5.0
+pyspellchecker==0.6.2
