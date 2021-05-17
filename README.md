@@ -11,12 +11,15 @@ The main purpose of project is translating sign-language to letters. In accordan
 <h3>Versions</h3>
 <p>Current Project version : v0.8.0</p>
 <p>Current model version : v0.3.0</p>
-<p>Python version : v3.8.5</p>
+<p>Python version : v3.8.8</p>
 
-<h2>Installation</h2>
-First of all you need to download python at least 3.8.5, you can download from <a href="https://www.python.org/downloads/release/python-385/" traget="_blank">here</a>.<br/>
-Then you can use the <a href="https://github.com/ogunbrnc/SignLanguageTranslator/blob/main/requirements.txt" target="_blank">requirements.txt</a> file to download necessary python libaries.
-          
+<h2>Installation And Execution</h2>
+First of all you need to download python at least 3.8.8, you can download from <a href="https://www.python.org/downloads/release/python-388/" traget="_blank">here</a>.<br/>
+Then you can use the <a href="https://github.com/ogunbrnc/SignLanguageTranslator/blob/main/requirements.txt" target="_blank">requirements.txt</a> file to download necessary python libaries.</br>
+<h4>pip install -r requirements.txt</h4>
+Then you will be have necessary python libaries, so you can run the program with that following command.
+<h4>python HomePage.py</h4>
+
 <h2> How To ? </h2>
 
 First of all you need to start project from Home.py. When you start the program a user graphical user interface pop up, In this interface there are two main and one assistan feature;<br>
